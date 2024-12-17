@@ -2,7 +2,6 @@
 
 **Data Engineer | Data Analyst**
 
-## 👋 About Me  
 I am a skilled data engineer and data analyst with a passion for transforming complex datasets into meaningful insights. Recently pursuing my Master's in Data Analytics and Visualization from Yeshiva University, I have a solid foundation in data engineering, machine learning, and visualization techniques.
 
 - 🌍 Based in Jersey City, NJ  
