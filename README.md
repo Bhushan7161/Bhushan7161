@@ -4,7 +4,7 @@
 
 I am a skilled data engineer and data analyst with a passion for transforming complex datasets into meaningful insights. Recently pursuing my Master's in Data Analytics and Visualization from Yeshiva University, I have a solid foundation in data engineering, machine learning, and visualization techniques.
 
-- 🌍 Based in Jersey City, NJ  
+- 🌍 Based in Stamford, CT 
 - ✉️ Reach me at [bhushanbabar1999@gmail.com](mailto:bhushanbabar1999@gmail.com)  
 - 🌐 I am eager to collaborate on data-centric projects, explore emerging technologies, and continuously expand my knowledge.  
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-babar/) or explore my experiences in the [Portfolio](https://www.datascienceportfol.io/bhushan_babar) .  
