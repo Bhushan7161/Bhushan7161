@@ -8,7 +8,7 @@ I am a skilled data engineer and data analyst with a passion for transforming co
 - ✉️ Reach me at [bhushanbabar1999@gmail.com](mailto:bhushanbabar1999@gmail.com)  
 - 🌐 I am eager to collaborate on data-centric projects, explore emerging technologies, and continuously expand my knowledge.  
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-babar/) or explore my experiences in the [Portfolio](https://www.datascienceportfol.io/bhushan_babar) .  
-- 📄 Learn about my experiences through my [resume](https://github.com/Bhushan7161/Bhushan7161/blob/main/Bhushan%20Babar%20Resume.pdf)  
+- 📄 Learn about my experiences through my [resume](https://drive.google.com/file/d/1xawgIXYNjyJJCSBlu_xpbx9r0AhRHIVY/view?usp=sharing)  
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for collaboration or opportunities.
