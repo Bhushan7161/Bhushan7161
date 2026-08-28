@@ -1,66 +1,93 @@
-<h2 align="left">Hi 👋! I am Bhushan Balasaheb Babar. </h2>
+<h1 align="center">Hi, I'm Bhushan Babar</h1>
+<h3 align="center">Data Scientist | Data Engineer | Python, Cloud & Analytics</h3>
 
-**Data Engineer | Data Analyst**
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhushan-babar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bhushanbabar1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.datascienceportfol.io/bhushan_babar"><img src="https://img.shields.io/badge/Portfolio-View-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
-I am a skilled data engineer and data analyst with a passion for transforming complex datasets into meaningful insights. Recently pursuing my Master's in Data Analytics and Visualization from Yeshiva University, I have a solid foundation in data engineering, machine learning, and visualization techniques.
+About Me
 
-- 🌍 Based in Stamford, CT 
-- ✉️ Reach me at [bhushanbabar1999@gmail.com](mailto:bhushanbabar1999@gmail.com)  
-- 🌐 I am eager to collaborate on data-centric projects, explore emerging technologies, and continuously expand my knowledge.  
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-babar/) or explore my experiences in the [Portfolio](https://www.datascienceportfol.io/bhushan_babar) .  
-- 📄 Learn about my experiences through my [resume](https://drive.google.com/file/d/1xawgIXYNjyJJCSBlu_xpbx9r0AhRHIVY/view?usp=sharing)  
----
+I am a data professional based in Stamford, Connecticut, with experience building cloud-based data workflows, ETL pipelines, machine-learning solutions, analytics, and data-quality automation. I currently support alternative-investment data operations at iCapital and previously worked in data engineering at Accenture.
 
-Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for collaboration or opportunities.
+Building reliable solutions with Python, SQL, PySpark, AWS, Azure, and Docker
 
-###
+Applying machine learning, statistical analysis, data visualization, and automation to business problems
 
-###
+Experienced in ETL, data quality, reconciliation, Salesforce, and analytics
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+M.S. in Data Analytics and Visualization from Yeshiva University
 
-###
+Open to Data Science, Data Engineering, and Analytics Engineering opportunities
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+Featured Project
 
-###
-###
+Playwright Hybrid Page Object Model Framework
+
+A production-style web automation framework built with Python, Playwright, and Pytest.
+
+Page Object Model with reusable keyword-driven components
+
+Excel-based data-driven testing across multiple car brands
+
+Chromium and Firefox execution with configurable headless mode
+
+Screenshots, videos, and Playwright traces for failed tests
+
+GitHub Actions CI, Jenkins integration, and Allure reporting
+
+Nine automated tests successfully executed in GitHub Actions
+
+Additional Projects
+
+Crime Prediction - Machine-learning workflow using Python and tree-based models to analyze crime patterns and visualize geographic hotspots.
+
+Telecom Churn Case Study - Customer-churn analysis covering data preparation, exploratory analysis, feature engineering, and predictive modeling.
+
+SQL RSVP Movies Case Study - SQL analysis using joins, aggregations, filtering, and business-focused queries.
+
+Technical Skills
+
+Languages
+
+
+
+
+
+Analytics & Automation
+
+
+
+
+
+
+
+
+Data & Cloud
+
+
+
+
+
+
+
+
+Certifications
+
+AWS Certified Cloud Practitioner
+
+Microsoft Security, Compliance, and Identity Fundamentals
+
+Microsoft Technology Associate: Security Fundamentals
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhushan7161&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Bhushan's GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan7161&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Bhushan's top languages">
+</p>
+
+Let's Connect
+
+I am interested in collaborating on Python, data engineering, cloud, machine-learning, and test-automation projects. Connect with me on LinkedIn or reach me by email.
